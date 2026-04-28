@@ -1,0 +1,13 @@
+Job Analysis Report
+===================
+
+Skills/keywords found in job posters:
+- python (mentions: 2)
+- machine learning (mentions: 2)
+- data preprocessing (mentions: 2)
+- github (mentions: 2)
+- git (mentions: 3)
+- api (mentions: 2)
+- sql (mentions: 2)
+- communication (mentions: 2)
+- problem solving (mentions: 1)

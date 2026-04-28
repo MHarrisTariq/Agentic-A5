@@ -1,0 +1,3 @@
+﻿Junior AI Engineer Intern
+We are hiring an intern with Python, Machine Learning, SQL, data preprocessing, GitHub collaboration, and communication skills.
+Responsibilities: build APIs, clean datasets, and present insights.

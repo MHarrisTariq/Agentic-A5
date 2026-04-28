@@ -1,0 +1,135 @@
+CareerPrep Job-Hunting Agent Report
+====================================
+Generated on: 2026-04-28T18:03:07
+
+Job files read: 2
+Resume files read: 1
+KB files read: 2
+Skill match score: 66.67%
+
+Job Analysis Report
+===================
+
+Skills/keywords found in job posters:
+- python (mentions: 2)
+- machine learning (mentions: 2)
+- data preprocessing (mentions: 2)
+- github (mentions: 2)
+- git (mentions: 3)
+- api (mentions: 2)
+- sql (mentions: 2)
+- communication (mentions: 2)
+- problem solving (mentions: 1)
+
+Skill Gap Report
+================
+
+Match Score: 66.67%
+
+Total job keywords: 9
+Total resume keywords: 11
+
+Matched Skills:
+- python
+- github
+- git
+- api
+- communication
+- problem solving
+
+Missing Skills:
+- machine learning
+- data preprocessing
+- sql
+
+Tailored Resume Suggestions
+===========================
+
+Suggested improvements according to job posters:
+- Add measurable evidence (tools, outcome, impact) for python.
+- Add measurable evidence (tools, outcome, impact) for machine learning.
+- Add measurable evidence (tools, outcome, impact) for data preprocessing.
+- Add measurable evidence (tools, outcome, impact) for github.
+- Add measurable evidence (tools, outcome, impact) for git.
+- Add measurable evidence (tools, outcome, impact) for api.
+- Add measurable evidence (tools, outcome, impact) for sql.
+- Add measurable evidence (tools, outcome, impact) for communication.
+- Add measurable evidence (tools, outcome, impact) for problem solving.
+
+Suggested resume bullets:
+- Built Python-based projects and documented approach/results clearly.
+- Used Git/GitHub for version control, issue tracking, and collaboration.
+- Applied structured problem-solving in coursework and practical projects.
+
+Skills to improve before applying/interview:
+- machine learning
+- data preprocessing
+- sql
+
+Interview Questions
+===================
+
+Technical questions based on job posters:
+- Explain your understanding of python.
+- Describe one project where you used python.
+- Explain your understanding of machine learning.
+- Describe one project where you used machine learning.
+- Explain your understanding of data preprocessing.
+- Describe one project where you used data preprocessing.
+- Explain your understanding of github.
+- Describe one project where you used github.
+- Explain your understanding of git.
+- Describe one project where you used git.
+- Explain your understanding of api.
+- Describe one project where you used api.
+- Explain your understanding of sql.
+- Describe one project where you used sql.
+- Explain your understanding of communication.
+- Describe one project where you used communication.
+- Explain your understanding of problem solving.
+- Describe one project where you used problem solving.
+
+HR and behavioral questions:
+- Tell me about yourself.
+- Why are you interested in this role?
+- Describe a challenge and how you solved it.
+- What are your strengths and areas for improvement?
+
+Questions inspired by KB/slides:
+- How would you explain this point in an interview: FILE: interview_preparation_notes.txt?
+- How would you explain this point in an interview: ﻿Interview preparation notes:?
+- How would you explain this point in an interview: Explain STAR method for behavioral questions.?
+- How would you explain this point in an interview: Be ready to discuss end-to-end project lifecycle.?
+- How would you explain this point in an interview: Clarify difference between overfitting and underfitting.?
+- How would you explain this point in an interview: Explain data preprocessing pipeline and feature engineering choices.?
+- How would you explain this point in an interview: Demonstrate SQL joins with practical examples.?
+- How would you explain this point in an interview: FILE: job_fair_slides_notes.txt?
+- How would you explain this point in an interview: ﻿Job fair slides notes:?
+- How would you explain this point in an interview: Keep concise and impact-oriented resume bullets.?
+
+Preparation Plan
+================
+
+Day 1-2: Strengthen missing skills
+- Study and practice: machine learning
+- Study and practice: data preprocessing
+- Study and practice: sql
+
+Day 3: Review your demonstrated strengths
+- Prepare project examples for: python
+- Prepare project examples for: github
+- Prepare project examples for: git
+- Prepare project examples for: api
+- Prepare project examples for: communication
+- Prepare project examples for: problem solving
+
+Day 4: Mock interview
+- Practice technical + HR questions for 30-45 minutes.
+
+Application Reminders
+=====================
+
+- APP-001: Interview scheduled for Junior AI Engineer Intern at ABC Tech on 2026-04-28. Next action: Revise Python, ML basics, and explain projects clearly.
+- APP-001: Follow-up date set to 2026-04-28.
+- APP-002: Application submitted to DataWorks. Follow up on 2026-04-28 if no response.
+- APP-002: Follow-up date set to 2026-04-28.

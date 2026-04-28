@@ -1,0 +1,6 @@
+﻿Interview preparation notes:
+- Explain STAR method for behavioral questions.
+- Be ready to discuss end-to-end project lifecycle.
+- Clarify difference between overfitting and underfitting.
+- Explain data preprocessing pipeline and feature engineering choices.
+- Demonstrate SQL joins with practical examples.

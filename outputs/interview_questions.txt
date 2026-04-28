@@ -1,0 +1,40 @@
+Interview Questions
+===================
+
+Technical questions based on job posters:
+- Explain your understanding of python.
+- Describe one project where you used python.
+- Explain your understanding of machine learning.
+- Describe one project where you used machine learning.
+- Explain your understanding of data preprocessing.
+- Describe one project where you used data preprocessing.
+- Explain your understanding of github.
+- Describe one project where you used github.
+- Explain your understanding of git.
+- Describe one project where you used git.
+- Explain your understanding of api.
+- Describe one project where you used api.
+- Explain your understanding of sql.
+- Describe one project where you used sql.
+- Explain your understanding of communication.
+- Describe one project where you used communication.
+- Explain your understanding of problem solving.
+- Describe one project where you used problem solving.
+
+HR and behavioral questions:
+- Tell me about yourself.
+- Why are you interested in this role?
+- Describe a challenge and how you solved it.
+- What are your strengths and areas for improvement?
+
+Questions inspired by KB/slides:
+- How would you explain this point in an interview: FILE: interview_preparation_notes.txt?
+- How would you explain this point in an interview: ﻿Interview preparation notes:?
+- How would you explain this point in an interview: Explain STAR method for behavioral questions.?
+- How would you explain this point in an interview: Be ready to discuss end-to-end project lifecycle.?
+- How would you explain this point in an interview: Clarify difference between overfitting and underfitting.?
+- How would you explain this point in an interview: Explain data preprocessing pipeline and feature engineering choices.?
+- How would you explain this point in an interview: Demonstrate SQL joins with practical examples.?
+- How would you explain this point in an interview: FILE: job_fair_slides_notes.txt?
+- How would you explain this point in an interview: ﻿Job fair slides notes:?
+- How would you explain this point in an interview: Keep concise and impact-oriented resume bullets.?

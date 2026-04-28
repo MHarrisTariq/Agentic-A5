@@ -1,0 +1,6 @@
+﻿Student Resume
+Skills: Python, Git, GitHub, Pandas, NumPy, Communication, Problem Solving, Jupyter.
+Projects:
+- Built a student performance predictor using Python and pandas.
+- Created a Flask API for project submission tracking.
+- Collaborated through GitHub with clear README files.

@@ -1,0 +1,7 @@
+Application Reminders
+=====================
+
+- APP-001: Interview scheduled for Junior AI Engineer Intern at ABC Tech on 2026-04-28. Next action: Revise Python, ML basics, and explain projects clearly.
+- APP-001: Follow-up date set to 2026-04-28.
+- APP-002: Application submitted to DataWorks. Follow up on 2026-04-28 if no response.
+- APP-002: Follow-up date set to 2026-04-28.

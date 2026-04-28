@@ -1,0 +1,9 @@
+﻿python
+machine learning
+data preprocessing
+sql
+communication
+github
+git
+problem solving
+api

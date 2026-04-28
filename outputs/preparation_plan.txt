@@ -1,0 +1,18 @@
+Preparation Plan
+================
+
+Day 1-2: Strengthen missing skills
+- Study and practice: machine learning
+- Study and practice: data preprocessing
+- Study and practice: sql
+
+Day 3: Review your demonstrated strengths
+- Prepare project examples for: python
+- Prepare project examples for: github
+- Prepare project examples for: git
+- Prepare project examples for: api
+- Prepare project examples for: communication
+- Prepare project examples for: problem solving
+
+Day 4: Mock interview
+- Practice technical + HR questions for 30-45 minutes.

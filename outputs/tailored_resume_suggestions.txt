@@ -1,0 +1,23 @@
+Tailored Resume Suggestions
+===========================
+
+Suggested improvements according to job posters:
+- Add measurable evidence (tools, outcome, impact) for python.
+- Add measurable evidence (tools, outcome, impact) for machine learning.
+- Add measurable evidence (tools, outcome, impact) for data preprocessing.
+- Add measurable evidence (tools, outcome, impact) for github.
+- Add measurable evidence (tools, outcome, impact) for git.
+- Add measurable evidence (tools, outcome, impact) for api.
+- Add measurable evidence (tools, outcome, impact) for sql.
+- Add measurable evidence (tools, outcome, impact) for communication.
+- Add measurable evidence (tools, outcome, impact) for problem solving.
+
+Suggested resume bullets:
+- Built Python-based projects and documented approach/results clearly.
+- Used Git/GitHub for version control, issue tracking, and collaboration.
+- Applied structured problem-solving in coursework and practical projects.
+
+Skills to improve before applying/interview:
+- machine learning
+- data preprocessing
+- sql
